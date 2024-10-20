@@ -1,0 +1,2 @@
+<!--components/testStore/test.wxml-->
+<text>{{a}} + {{b}} = {{total}}</text>

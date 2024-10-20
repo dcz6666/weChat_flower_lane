@@ -1,0 +1,6 @@
+<!--pages/test/test.wxml-->
+<testcomputed />
+<teststore />
+<view style="width:750rpx;height:2000rpx;"></view>
+
+<button type="warn" size="mini" plain bindtap="onLocation">拒绝授权后的处理方案</button>

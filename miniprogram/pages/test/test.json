@@ -1,0 +1,7 @@
+{
+	"usingComponents": {
+		"testcomputed": "/components/testcomputed/test",
+		"teststore": "/components/testStore/test"
+	},
+	"enablePullDownRefresh": true
+}
